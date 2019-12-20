@@ -1,0 +1,40 @@
+.header {
+  padding: 2px;
+  text-align: center;
+  background: #659DBD;
+  color: white;
+  font-size: 24px;
+  font-family:'Roboto', sans-serif;
+}
+.cen{
+	padding: 10px;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-family:'Roboto', sans-serif;
+}
+.upload-btn-wrapper {
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+
+  font-size: 24px;
+
+}
+
+.upload-btn-wrapper input[type=file] {
+  font-size: 25px;
+  position: absolute;
+  left: 0px;
+  top: 0;
+  opacity: 0;
+  padding: 20px 0px 50px;
+}
