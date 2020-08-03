@@ -15,7 +15,7 @@
     "scripts": {
         "build": "webpack --config webpack.config.js",
         "docs": "start-storybook -p 9090 -c .storybook",
-        "docs:build": "build-storybook -c .storybook -o docs"
+        "docs:build": "build-storybook -c .storybook -o ../docs"
     },
     "devDependencies": {
         "@storybook/addon-info": "^5.3.19",
