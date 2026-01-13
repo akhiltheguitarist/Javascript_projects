@@ -20,7 +20,7 @@
     "devDependencies": {
         "@storybook/addon-info": "^5.3.19",
         "@storybook/components": "^5.3.19",
-        "@storybook/react": "^5.3.19",
+        "@storybook/react": "^10.0.7",
         "clean-webpack-plugin": "^3.0.0",
         "storybook-addon-jsx": "^7.3.3",
         "uglifyjs-webpack-plugin": "^2.2.0",
